@@ -2,7 +2,7 @@
 # LeetCode: https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
 # Difficulty: Easy
 # Time Complexity: O(n), Space Complexity: O(1)
-# Approach: Track the minimum price so far and update max profit for each day
+# Approach: Track the minimum price so far and update max profit for each day (GREEDY)
 
 from typing import List
 

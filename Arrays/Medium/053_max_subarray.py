@@ -1,6 +1,6 @@
 # LeetCode 53 – Maximum Subarray
 # https://leetcode.com/problems/maximum-subarray/
-# Uses Kadane’s Algorithm to find the maximum subarray sum in linear time.
+# Uses Kadane’s Algorithm to find the maximum subarray sum in linear time.(DP)
 # Difficulty: Medium
 # Time Complexity: O(n)
 # Space Complexity: O(1)
